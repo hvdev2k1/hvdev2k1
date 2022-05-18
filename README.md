@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey, howdy, hi! How is it going? 👋👋👋
 
-<!--
-**hvdev2k1/hvdev2k1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🕸️ My blog: <a href="https://hvdev.cc/">hvdev.cc</a>&nbsp;&nbsp;
+🐦 My twitter: <a href="https://twitter.com/hvhvdevdev">@hvhvdevdev</a>&nbsp;&nbsp;
+💌 Mail me: m (sign at) hvdev.cc
+<hr/>
 
-Here are some ideas to get you started:
+#### Technologies
+Please do talk to me about:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend development using **Vue** or **Svelte**.
+- Backend development using **Django**, **Rails**, or **Spring**.
+- How to design a Database with **MySQL** or **PostgreSQL**.
+- Video game development for desktop, mobile and Nintendo 3DS.
+
+Have fun! 🐧
