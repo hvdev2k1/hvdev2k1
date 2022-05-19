@@ -13,4 +13,4 @@ Please do talk to me about:
 - How to design a Database with **MySQL** or **PostgreSQL**.
 - Video game development for desktop, mobile and Nintendo 3DS.
 
-Have fun! 🐧
+Enjoy yourself! 🐧
