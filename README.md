@@ -13,4 +13,4 @@ Please do talk to me about:
 - Database administration with **MySQL** or **PostgreSQL**.
 - Video game development for desktop, mobile and Nintendo 3DS.
 
-Enjoy yourself! 🐧
+Enjoy your day! 🐧
